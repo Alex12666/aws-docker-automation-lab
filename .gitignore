@@ -1,0 +1,20 @@
+cat <<EOF > .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Docker
+.docker/
+*.log
+
+# Variáveis de Ambiente (Segurança)
+.env
+
+# Sistema
+.DS_Store
+EOF
+

@@ -1,0 +1,10 @@
+{
+  "name": "aws-automation-lab",
+  "version": "1.0.0",
+  "description": "Projeto de automação AWS CLI, Docker e Flask",
+  "author": "Alexandre",
+  "scripts": {
+    "start": "docker-compose up --build",
+    "clean": "docker-compose down"
+  }
+}

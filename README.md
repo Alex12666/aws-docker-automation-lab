@@ -1,4 +1,4 @@
-cat <<'EOF' > README.md
+ README.md
 # 🚀 Automação de Infraestrutura: AWS + Docker
 
 Projeto desenvolvido para colocar em prática conceitos de **DevOps**, focando em automação de nuvem e conteinerização.
